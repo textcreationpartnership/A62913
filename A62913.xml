@@ -1,0 +1,695 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New-England's tears for her present miseries, or, A late and true relation of the calamities of New-England since April last past with an account of the battel between the English and the Indians upon Seaconk plain, and of the Indians burning and destroying of Marlbury, Rehoboth, Chelmsford, Sudbury, and Providence : with the death of Antononies the grand Indian Sachem, and a relation of a fortification begun by women upon Boston Neck : together with an elegy on the death of John Winthrop Esq., late Governour of Connecticott, and fellow of the Royal Society / written by an inhabitant of Boston in New England to his friend in London.</title>
+            <author>Tompson, Benjamin, 1642-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62913</idno>
+            <idno type="STC">Wing T1867</idno>
+            <idno type="STC">ESTC R20609</idno>
+            <idno type="EEBO-CITATION">12563151</idno>
+            <idno type="OCLC">ocm 12563151</idno>
+            <idno type="VID">63293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63293)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 704:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New-England's tears for her present miseries, or, A late and true relation of the calamities of New-England since April last past with an account of the battel between the English and the Indians upon Seaconk plain, and of the Indians burning and destroying of Marlbury, Rehoboth, Chelmsford, Sudbury, and Providence : with the death of Antononies the grand Indian Sachem, and a relation of a fortification begun by women upon Boston Neck : together with an elegy on the death of John Winthrop Esq., late Governour of Connecticott, and fellow of the Royal Society / written by an inhabitant of Boston in New England to his friend in London.</title>
+                  <author>Tompson, Benjamin, 1642-1714.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massachusetts --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:63293:1"/>
+               <pb facs="tcp:63293:1" rendition="simple:additions"/>
+New-Englands Tears FOR HER Preſent Miſeries: OR, A Late and True RELATION of the CALAMITIES of NEW-ENGLAND Since <hi>APRIL</hi> laſt paſt.</p>
+            <p>With an Account of the Battel between the <hi>Engliſh</hi> and <hi>Indians</hi> upon <hi>Seaconk Plain:</hi>
+            </p>
+            <p>And of the <hi>Indians</hi> Burning and Deſtroying of <hi>Marlbury, Rehoboth, Chelmsford, Sudbury,</hi> and <hi>Providence.</hi>
+            </p>
+            <p>With the Death of <hi>Antononies</hi> the Grand <hi>Indian</hi> Sachem; And a RELATION of a Fortification begun by Women upon <hi>Boſton Neck.</hi> Together with an Elegy on the Death of <hi>John Winthrop</hi> 
+               <abbr>Esq</abbr> late Governour of <hi>Con<g ref="char:EOLhyphen"/>necticott,</hi> and Fellow of the <hi>Royal Society.</hi>
+            </p>
+            <p>
+               <hi>Written by an Inhabitant of</hi> Boſton <hi>in</hi> New England <hi>to his Friend in</hi> London. With Allowance.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>N. S.</hi> 1676.</p>
+            <pb facs="tcp:63293:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:63293:2"/>
+            <head>A NARRATIVE OF New Englands PRESENT CALAMITIES.</head>
+            <opener>
+               <dateline>
+                  <date>15 <hi>April</hi> 1676.</date>
+               </dateline>
+            </opener>
+            <l>
+               <seg rend="decorInit">W</seg>HAT means this ſilence of <hi>Harvardine</hi> Quills</l>
+            <l>Whilſt <hi>Mars</hi> Triumphant thunders on our Hills?</l>
+            <l>Have <hi>Pagan</hi> Prieſts their Eloquence confin'd</l>
+            <l>To no mans uſe but the myſterious Mind?</l>
+            <l>Have <hi>PAWAWS</hi> charm'd that Art which was ſo rife</l>
+            <l>To crouch to every <hi>DON</hi> that loſt his life?</l>
+            <l>But now whole Towns and Churches fire and die,</l>
+            <l>Without the pity of an Elegy.</l>
+            <l>
+               <pb n="2" facs="tcp:63293:3"/>
+Nay, rather ſhould my Quills, were they all Swords,</l>
+            <l>Wear to the Hilts in ſome lamenting words:</l>
+            <l>I dare not ſtile them Poetry, but Truth,</l>
+            <l>The dwindling products of my crazie youth;</l>
+            <l>If theſe Eſſays ſhall rouze ſome quainter Pens</l>
+            <l>'Twill to the Author make a rich amends.</l>
+            <div type="elegy">
+               <head>Marlburies Fate.</head>
+               <lg>
+                  <l>WHen <hi>London</hi>'s fatal Bills were blown abroad,</l>
+                  <l>And few but Specters travel'd on the Road,</l>
+                  <l>Not Towns, but Men in the black page inroll'd</l>
+                  <l>Were in Gazets by <hi>Typographers</hi> ſold;</l>
+                  <l>But our Gazets without Errata's Muſt</l>
+                  <l>Report the Plague of Towns reduc'd to Duſt:</l>
+                  <l>And Feavors, but ere while to Tenants ſent</l>
+                  <l>Arreſt the Timbers of the Tenement.</l>
+               </lg>
+               <lg>
+                  <l>Ere the late ruines of poor <hi>Groton</hi>'s cold,</l>
+                  <l>Of <hi>Marlburies</hi> peracute Diſeaſe we're told;</l>
+                  <l>The feet of ſuch, who neighb'ring dwellings urn'd</l>
+                  <l>Unto its aſhes not its doors return'd.</l>
+                  <l>So what remain'd of Tears as yet unſpent</l>
+                  <l>Are to its final gaſps a Tribute lent.</l>
+               </lg>
+               <lg>
+                  <l>If Painter ever track my Pen, let him</l>
+                  <l>An Olive colour mix, theſe Elves to trim;</l>
+                  <l>Of ſuch an hue, let many hundred Thieves</l>
+                  <l>Be drawn like Scarecrows clad with Oaken leaves,</l>
+                  <l>Exhauſted of their Verdant Life, and blown</l>
+                  <l>From place to place without a home to own:</l>
+                  <l>Draw Devils like themſelves, upon their cheeks</l>
+                  <l>Thoſe B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nks of Greaſe and Mud a plat for Leeks;</l>
+                  <l>Whoſe dangling Locks <hi>Meduſa</hi>'s Snakes reſemble,</l>
+                  <l>With grizly looks would make <hi>Achilles</hi> tremble.</l>
+                  <l>Limn them beſmear'd with Chriſtian blood, and oyl'd</l>
+                  <l>With fat out of white humane Bodies boyld.</l>
+                  <l>
+                     <pb n="3" facs="tcp:63293:3"/>
+Draw them with Clubs like Mauls, all full of ſtains;</l>
+                  <l>Like <hi>Vulcan</hi>'s anvelling <hi>New Englands</hi> brains:</l>
+                  <l>Let round be gloomy Forreſts, and thick Rocks;</l>
+                  <l>Where like to Caſtles they may hide their Flocks:</l>
+                  <l>Till opportunity their conſtant friend,</l>
+                  <l>Shall jogge them <hi>
+                        <g ref="char:V">Ʋ</g>ulcan</hi>'s Worſhip to attend.</l>
+                  <l>Shew them like Serpents in an avious path,</l>
+                  <l>Waiting to ſow the Fire-balls of their wrath.</l>
+                  <l>Much like <hi>Aeneas,</hi> in his cloak of miſt,</l>
+                  <l>Who undiſcover'd, move where ere they liſt.</l>
+                  <l>
+                     <hi>Cupid</hi> ſome tell us, had two ſorts of Darts,</l>
+                  <l>But we feel none, but ſuch as drill our hearts;</l>
+                  <l>From <hi>Indian</hi> ſheaves which to their ſhoulders cling,</l>
+                  <l>Upon the Word they quickly feel the ſtring.</l>
+                  <l>Hide firſt the <hi>Sun</hi> beneath the Earth and quench</l>
+                  <l>In <hi>Thetis</hi> boul the Stars; the <hi>Lunar</hi> Wench</l>
+                  <l>So mutable in faſhions, make her happe</l>
+                  <l>To lie a ſlumbering in <hi>Apollo</hi>'s lappe.</l>
+                  <l>Let Earth be made a Screen to hide our woe,</l>
+                  <l>From Heaven's Monarch, and his Ladies too:</l>
+                  <l>And leaſt our jealouſie think they partake,</l>
+                  <l>For the Red Stage with Clouds a Curtain make.</l>
+                  <l>Let Doggs be gagg'd, and every quickning ſound,</l>
+                  <l>Be charm'd to ſilence: here and there all round,</l>
+                  <l>The Town, to ſuffer. From a thouſand holes</l>
+                  <l>Let crawl thoſe Fiends with brands and firing Poles.</l>
+                  <l>Paint here an Houſe and there a Barn on fire,</l>
+                  <l>With Holocauſts aſcending in a ſpire.</l>
+                  <l>Here Granaries, yonder the Churches ſmoke,</l>
+                  <l>Which Vengeance on the Actors did invoke.</l>
+                  <l>Let <hi>Morpheus</hi> with his Leaden Keys have bound</l>
+                  <l>In Feather beds ſome, ſome upon the Ground,</l>
+                  <l>That none may burſt his drouſie Shackles till</l>
+                  <l>The Bruitiſh Pagans have obtain'd their will,</l>
+                  <l>And <hi>Vulcan</hi> files them off. Then <hi>Zeuxis</hi> paint</l>
+                  <l>The phrenſie glances of the Sinking Saint.</l>
+                  <l>Draw there the Paſtor for his Bible crying,</l>
+                  <l>The Souldier for his Sword, the Glutton frying</l>
+                  <l>
+                     <pb n="4" facs="tcp:63293:4"/>
+With Streams of glory fat. The thin jaw'd Miſer,</l>
+                  <l>Ah had I given this, I had been wiſer.</l>
+                  <l>Let here the Mother ſeem a Statue turn'd,</l>
+                  <l>At the ſad object of her Bowels burn'd.</l>
+                  <l>Let the unſtable Weakling in belief,</l>
+                  <l>Be mounting <hi>Aſhur's</hi> Horſes for relief.</l>
+                  <l>Let the half Convert ſeem ſuſpended 'twixt</l>
+                  <l>The Dens of Darkneſs and the Planets fixt.</l>
+                  <l>Ready to quit his hold and yet hold faſt</l>
+                  <l>By the great <hi>Atlas</hi> of the Heavens vaſt.</l>
+                  <l>Paint Papiſts mutt'ring over apiſh Beads,</l>
+                  <l>Whom the Blind follow while the Blindman leads.</l>
+                  <l>Let <hi>ATTAXIE</hi> be mounted on a Throne,</l>
+                  <l>Impoſing her Commands on every one:</l>
+                  <l>A many-headed Monſter without Eyes,</l>
+                  <l>To ſee the Wayes which wont to make men wiſe.</l>
+                  <l>Give her a Thouſand Tongues with Wings and Hands</l>
+                  <l>To be Ubiquitary in commands:</l>
+                  <l>But let the Concave of her Soul appear,</l>
+                  <l>Waſht Clean and Empty quite of all but fear.</l>
+                  <l>One ſhe bids run, another ſtay, a third</l>
+                  <l>She bids betake him to his ruſty Sword;</l>
+                  <l>This to his treaſure, t'other to his Knees,</l>
+                  <l>Some Counſels ſhe to fry, and ſome to freeze:</l>
+                  <l>Theſe to the Garriſons, thoſe to the Load;</l>
+                  <l>Some to run empty, ſome to take the Load.</l>
+                  <l>Thus while Confuſion, moſt mens hearts divide,</l>
+                  <l>Fire doth the ſmall Exchequer ſoon decide.</l>
+                  <l>Thus all things ſeeming ope or ſecret foes,</l>
+                  <l>An Infant may grow gray before a cloſe.</l>
+                  <l>But yet my hopes remain in perfect ſtrength,</l>
+                  <l>
+                     <hi>New England</hi> will be proſperous once at length.</l>
+               </lg>
+            </div>
+            <div type="elegy">
+               <pb n="5" facs="tcp:63293:4"/>
+               <head>Providences Fate.</head>
+               <l>VVHy muſe we thus, to ſee the Wheels run croſs,</l>
+               <l>Since Providence it ſelf, ſuſtains a loſs:</l>
+               <l>Should Providence, but one day miſs its watch,</l>
+               <l>I fear the Enemy would all diſpatch.</l>
+               <l>Reſplendent <hi>Phoebus</hi> would forget to ſhine,</l>
+               <l>The wandring Planets, to forget their Line.</l>
+               <l>The Stars run all out of their proper ſpheres,</l>
+               <l>And quickly fall together by the eares;</l>
+               <l>The Ocean would forget to ebbe and flow,</l>
+               <l>The Mother ceaſe the tender babe to know.</l>
+               <l>Kingdoms would joſtle out their Kings and ſet,</l>
+               <l>The Vile Mechanick up who next they met:</l>
+               <l>Or rather Kings, and Kingdoms, with the World,</l>
+               <l>Would into Chaos its firſt riſe be turn'd:</l>
+               <l>This ſacred Providence of the Moſt High,</l>
+               <l>None can outlive and write its Elegy.</l>
+               <l>But of a ſolitary Town I write,</l>
+               <l>A place of darkneſs, yet receiving light</l>
+               <l>From Pagans hands; a miſcellaneous neſt</l>
+               <l>Of Errours, Hectors, where they ſought a reſt</l>
+               <l>Out of the reach of Laws, but not of God;</l>
+               <l>Since they have ſmarted by the common Rod.</l>
+               <l>'Twas much I thought it did eſcape ſo long,</l>
+               <l>Which ſacred truth did manifeſtly wrong;</l>
+               <l>For one <hi>Lots</hi> ſake perhaps, or elſe I think,</l>
+               <l>Juſtice did long at great offenders wink.</l>
+               <l>'Tis happy for them, if their filth and droſs,</l>
+               <l>Be cleanſed off, though by a common loſs.</l>
+            </div>
+            <div type="poem">
+               <head>Seaconk Plain Engagement.</head>
+               <l>ON our <hi>Pharſalian</hi> Plain, containing ſpace</l>
+               <l>For <hi>Caeſar's</hi> Armies, <hi>Pompey's</hi> to outface,</l>
+               <l>An handful of our men are walled round,</l>
+               <l>With Tawny Bands, anon their pieces ſound</l>
+               <l>
+                  <pb n="6" facs="tcp:63293:5"/>
+A Madrigal; like Hail the Bullets fly,</l>
+               <l>An Emblem of Heavens Artillery.</l>
+               <l>Here<g ref="char:punc">▪</g>s Hoſts to Handfuls, of a few they leave</l>
+               <l>Fewer to tell how many they bereave.</l>
+               <l>Fool hardy Fortitude, it had been ſure,</l>
+               <l>Thouſands of Shot, and Arrows to endure:</l>
+               <l>Without all hopes of ſome requital too,</l>
+               <l>So numerous and peſtilent a foe.</l>
+               <l>Moſt Fought like <hi>Dragons;</hi> through this <hi>Indian</hi> miſt,</l>
+               <l>The Beams of Valour break where e'r they liſt.</l>
+               <l>Who died ('tis thought) ſold lives at ſuch a rate,</l>
+               <l>As doth the fury of the foes abate.</l>
+               <l>Some muſing a Retreat, and thence to run,</l>
+               <l>Have in an inſtant. all their buſineſs done.</l>
+               <l>They Sink, and Die, their wonted ſorrows weight,</l>
+               <l>They Tumble at their Feet, and follow ſtrait.</l>
+               <l>Here Captious ones, without their Queries lie,</l>
+               <l>The Quaker here, the Presbiterian by.</l>
+               <l>The Scruple dormant lies of thee and thou,</l>
+               <l>And moſt as one to Deaths dominion bow.</l>
+               <l>Such who out-live the fate of others fly,</l>
+               <l>Into the Neighbouring Swamps of miſery.</l>
+               <l>Thoſe who might die like men, like beaſts muſt range,</l>
+               <l>Uncertain whither for a better change.</l>
+               <l>Such Natives hunt and chaſe with Tygers mind,</l>
+               <l>And plague with Cruelties ſuch as they find.</l>
+               <l>When ſhall this ſhowre of Blood be over? when?</l>
+               <l>Quickly we pray (good Lord) ſay thou <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="elegy">
+               <head>Rehoboth's Fate.</head>
+               <l>I Once conjectur'd that theſe Figures hard,</l>
+               <l>To reverend <hi>Newman's</hi> Bones would have regard.</l>
+               <l>But were all Saints they met, it were all one caſe,</l>
+               <l>They owe no Reverence to an Angels Face.</l>
+               <l>But where they fix their Monſtrous Lion Paw's,</l>
+               <l>They Rend without remorſe or heed to Laws</l>
+               <l>
+                  <pb n="7" facs="tcp:63293:5"/>
+                  <hi>Rehoboth</hi> here in our plain Engliſh Reſt,</l>
+               <l>They ranſack, <hi>NEWMAN's</hi> Reliques they moleſt.</l>
+               <l>Here all the Town is made a publick ſtage,</l>
+               <l>Whereon theſe <hi>Nimrods</hi> act their Monſtrous rage;</l>
+               <l>And Cruelties which Paper ſtain'd before,</l>
+               <l>Are acted to the life here ore and ore.</l>
+               <l>Let this, dear Lord, the ſad Concluſion be</l>
+               <l>Of poor <hi>New-Englands</hi> fatal Tragedie.</l>
+               <l>Let not the Glory of thy former work,</l>
+               <l>Blaſphemed lie by <hi>Pagan, Jew,</hi> or <hi>Turk.</hi>
+               </l>
+               <l>But in <hi>New-Englands</hi> Aſhes write thy Name,</l>
+               <l>So fair all Nations may expound the ſame.</l>
+               <l>Out of theſe Ruins, let a Phaenix riſe,</l>
+               <l>That may outſhine the firſt, and be more wiſe.</l>
+               <l>Another black Parentheſis of woe,</l>
+               <l>The Printer wills that all the world ſhould know.</l>
+            </div>
+            <div type="elegy">
+               <head>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the ſetting of that Occidental Star</hi> John Win<g ref="char:EOLhyphen"/>throp <abbr>Esq</abbr> 
+                  <hi>Governour of</hi> Connecticott <hi>Colony, Member of the Royal Society; who deceaſed in his Countreys Service</hi> 6 April 1676.</head>
+               <l>NIne Muſes, get you all but one to ſleep,</l>
+               <l>But ſpare <hi>Melpomene,</hi> with me to weep.</l>
+               <l>From you whoſe bleared Eyes have Lectures read,</l>
+               <l>Of many of our <hi>Engliſh</hi> Heroe's dead.</l>
+               <l>I beg a glance from Spectacles of Woe,</l>
+               <l>(Quotidian Gazets) Brave <hi>Winthrop</hi> to.</l>
+               <l>Whoſe death Terreſtrial Comets did portend,</l>
+               <l>To every one who was his Countreys friend.</l>
+               <l>The Blaze of Towns was up like Torches light,</l>
+               <l>To guide him to his Grave, who was ſo fit</l>
+               <l>To rule, or to obey, to live or die<hi>:</hi>
+               </l>
+               <l>(A ſpecial Favorite of the Moſt High)</l>
+               <l>
+                  <hi>Monarch</hi> of Natures Secrets, who did hold,</l>
+               <l>Its grand Elixir named the <hi>Star</hi> of <hi>GOLD.</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:63293:6"/>
+Or elſe the World miſtakes, and by his deeds,</l>
+               <l>Of Daily Charities Expence he needs.</l>
+               <l>But had he it, he wiſer was than ſo,</l>
+               <l>That every Ape of Artiſts ſhould it know.</l>
+               <l>He had the Syſtem of the Univerſe,</l>
+               <l>Too Glorious for any to Rehearſe.</l>
+               <l>As <hi>Moſes</hi> took the Law in Clouds and Fire,</l>
+               <l>Which Vulgars barr'd at diſtance much admire.</l>
+               <l>Thus was he taught the precious Art of healing,</l>
+               <l>(Judge we but by ſucceſs) at Gods revealing.</l>
+               <l>He mounted up the Stairs of Sciences,</l>
+               <l>Unto the place of Viſions which did pleaſe.</l>
+               <l>Where on the Pinacle of worldly skill,</l>
+               <l>On Kingdoms of all Arts, he gaz'd his fill.</l>
+               <l>Into his Thoughts Alembick we may think,</l>
+               <l>He crouded Stars to make a Diet Drink.</l>
+               <l>(I mean) Terreſtrial Stars which in the Earth,</l>
+               <l>Receive their vitals and a Mineral Birth:</l>
+               <l>That <hi>Proteus, Mercury,</hi> he could compel,</l>
+               <l>Moſt ſoberly well fixt at home to dwell.</l>
+               <l>Of Salt (which Cooks do uſe for Eggs and Fiſhes)</l>
+               <l>He made a Balſom better than all Riches;</l>
+               <l>And Sulphur too provided for mens woe,</l>
+               <l>He made an Antidote Diſeaſes to.</l>
+               <l>This Terrene three, were made by Fire his friends,</l>
+               <l>To bring about his <hi>ARCHIATRICK</hi> ends.</l>
+               <l>He ſaw the World, which firſt had only ſhade,</l>
+               <l>And after rich Embroideries on it laid,</l>
+               <l>Of Glorious Light; how the Homogeneal ſpark,</l>
+               <l>Did firſt Rebell againſt the Central dark.</l>
+               <l>He ſaw the Jemms how firſt they budded, and</l>
+               <l>The Birth of Minerals, which put to ſtand</l>
+               <l>Natures grand Courtiers. He knew the Womb</l>
+               <l>From whom the Various Tribes of Herbs did come.</l>
+               <l>He had been round the Philoſophick ſea,</l>
+               <l>And knew the Tincture if there any be:</l>
+               <l>But all his Art muſt lie, there's no Diſeaſe</l>
+               <l>Predominant, where he doth take his Eaſe:</l>
+               <l>
+                  <pb n="9" facs="tcp:63293:6"/>
+Outliving <hi>Theophraſt,</hi> he ſhew'd thereby</l>
+               <l>Himſelf Hermetick, more ſurpaſſing high</l>
+               <l>
+                  <hi>TRISMEGESTOS</hi> I'll ſtile him; firſt in Grace,</l>
+               <l>Thrice great in <hi>ART,</hi> the next deſerving place;</l>
+               <l>Thrice High in humble Carriage, and who,</l>
+               <l>Would not to Higheſt Meekneſs ready bow?</l>
+               <l>
+                  <hi>England</hi> and <hi>Holland</hi> did great <hi>Winthrop</hi> woe;</l>
+               <l>Both had experienc'd Wonders he could doe.</l>
+               <l>But poor <hi>New-England</hi> ſtole his humble Heart,</l>
+               <l>From whoſe deep Wounds he never would depart:</l>
+               <l>His Councel Balſome like, he poured in,</l>
+               <l>And plaiſtred up its Breaches made by ſin.</l>
+               <l>Natives themſelves, in parlies would confeſs,</l>
+               <l>Brave <hi>Winthrops</hi> Charity and Holineſs.</l>
+               <l>The Time he rul'd, War never toucht his bound,</l>
+               <l>When Fire, and Sword, and Death, raged all round.</l>
+               <l>Above whoſe reach he reigns in Glories Rays,</l>
+               <l>Singing with all the Saints his Makers praiſe.</l>
+               <div type="epitaph">
+                  <head>EPITAPHIUM</head>
+                  <l>GReater Renown than <hi>Boſton</hi> could contain,</l>
+                  <l>Doth underneath this Marble-ſtone remain:</l>
+                  <l>Which could it feel but half ſo well as we,</l>
+                  <l>'Twould melt to Tears and let its Priſoner free.</l>
+               </div>
+            </div>
+            <div type="elegy">
+               <head>Chelmsfords Fate.</head>
+               <l>ERe Famous <hi>Winthrops</hi> Bones are laid to reſt,</l>
+               <l>The Pagans <hi>Chelmsford</hi> with ſad Flames arreſt;</l>
+               <l>Making an artificial day of night,</l>
+               <l>By that Plantations formidable light.</l>
+               <l>Here's midnight ſhreekes, and ſoul amazing groanes,</l>
+               <l>Enough to melt the very Marble-ſtones:</l>
+               <l>Fire-brands, and Bullets, Darts, and Deaths, and Wounds,</l>
+               <l>Confuſive Noyſes every where reſounds:</l>
+               <l>
+                  <pb n="10" facs="tcp:63293:7"/>
+The Natives ſhouting, with the Engliſh cries:</l>
+               <l>With all the Cruelties the Foes deviſe,</l>
+               <l>Might fill a Volume<hi>:</hi> but I leave a ſpace,</l>
+               <l>For mercies yet ſucceſſive in their place:</l>
+               <l>Not doubting but the foes have done their worſt,</l>
+               <l>And ſhall by Heaven, ſuddainly be curſt.</l>
+            </div>
+            <div type="elegy">
+               <head>Sudburies Fate.</head>
+               <l>ONce more run Lacquey Muſe the Councel tell,</l>
+               <l>What ſad Defeat our hopeful Band befell:</l>
+               <l>Since Fifty odd of Valours choiceſt Sons,</l>
+               <l>Sinke into Deaths retiring Room at once.</l>
+               <l>The Natives Scouts, like living baits were trail'd,</l>
+               <l>With Umbrages of mighty Rocks and Holes;</l>
+               <l>(Fit Pallaces for ſuch perfideous ſouls.</l>
+               <l>Some to our Linx-ey'd Centinels appear,</l>
+               <l>And quickly run as if poſſeſt with fear:</l>
+               <l>Ours chaſe, they halt; We gain, they lightly fly,</l>
+               <l>As if ſome <hi>Gad</hi> be ſtung upon the Thigh</l>
+               <l>One while they linger, falſly to give hope,</l>
+               <l>While to trapan, is their diſguized ſcope;</l>
+               <l>Into a Labyrinth) or a natural maze,</l>
+               <l>Of hideous thickets and unbeaten wayes;</l>
+               <l>Ours cloſe purſue them, and as cloſe heir fate,</l>
+               <l>Smelling their Treachery when 'twas too late,</l>
+               <l>A Race of Natives, as if newly hatcht,</l>
+               <l>Starts from their Dens, and ſoon our friends diſpatch,</l>
+               <l>Here was of <hi>Indians</hi> too a plenteous Fair,</l>
+               <l>The Chapmen Devils, hovering in the Air<hi>:</hi>
+               </l>
+               <l>But ah with Tears I may the Reader tell,</l>
+               <l>A little Hoſt of Engliſh down there fell<hi>:</hi>
+               </l>
+               <l>Two hardy Captains, many manly hearts,</l>
+               <l>Then felt the Bullets with the venom'd darts.</l>
+               <l>The Parents Veſture with the purple ſtain'd</l>
+               <l>Of his <hi>Aſcanius</hi> by him newly braind.</l>
+               <l>
+                  <hi>Eurylaus</hi> his Soul reaks through the wound,</l>
+               <l>
+                  <pb n="11" facs="tcp:63293:7"/>
+Of <hi>Niſus</hi> gaſping by upon the ground;</l>
+               <l>While the <hi>Rutilian</hi> like enraged bears,</l>
+               <l>The Garments; with Mens Skins, aſunder tears:</l>
+               <l>One ſeeks his Head, ſcrambling for breathing room,</l>
+               <l>By <hi>Lethal</hi> pangs; a ſecond reads his doom</l>
+               <l>In Vellome Rolls, flead off his right hand man<hi>:</hi>
+               </l>
+               <l>Which they ſend home for Sagamores to tan;</l>
+               <l>With Scalpes, according to whoſe number they,</l>
+               <l>Receive brave Titles and ſome rich Array:</l>
+               <l>Our numerous Scars, like ſtars in bodies ſhone,</l>
+               <l>Who have for each a glorious Trophie wone<hi>:</hi>
+               </l>
+               <l>From this <hi>Aceldama</hi> they poſt away,</l>
+               <l>To the Grand General for their ready pay<hi>:</hi>
+               </l>
+               <l>While fellow Soudiers who eſcape the dint,</l>
+               <l>Bounce our Exchecquers, but find little in't.</l>
+            </div>
+            <div type="military_celeusma">
+               <head>CELEUSMA MILITARE.</head>
+               <l>BUt know ſtout hearts that Diadems and Crowns,</l>
+               <l>Will powre down from Heaven after your wounds;</l>
+               <l>And you ſhall find in Honours Liſts a place,</l>
+               <l>Where Daſtard Spirits dare not ſhew their Face.</l>
+            </div>
+            <div type="epitaph">
+               <argument>
+                  <p>
+                     <hi>About this time Died Major</hi> Willard <abbr>Esq</abbr> 
+                     <hi>who had continued one of our Senators many years, and Head of the</hi> Maſſachuſet <hi>Bands. In</hi> 23 April 1676.</p>
+               </argument>
+               <head>EPITAPHIUM.</head>
+               <l>GReat, Good, and Juſt, Valiant, and Wiſe,</l>
+               <l>
+                  <hi>New-Englands</hi> common Sacrifice:</l>
+               <l>The Prince of War, the Bond of Love,</l>
+               <l>A True Herorick Martial Dove:</l>
+               <l>Pardon I croud his Parts ſo cloſe,</l>
+               <l>Which all the World in meaſure knows.</l>
+               <l>We envy Death, and well we may,</l>
+               <l>Who keeps him under Lock and Key.</l>
+               <p>
+                  <pb n="12" facs="tcp:63293:8"/>
+                  <hi>His Praiſes will, or are more largely celebrated; but let this be ac<g ref="char:EOLhyphen"/>cepted according to the Nature of my Writings, which are but Brief and General.</hi>
+               </p>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>The</hi> Indians <hi>threaten to Dine at</hi> Boſton <hi>on our Election.</hi>
+               </head>
+               <lg>
+                  <l>THe hungry Dogs, ſcenting the bay good Cheer,</l>
+                  <l>Give out Bravadoes that they will be here.</l>
+                  <l>But hopes we have of an Election day,</l>
+                  <l>Although their Votes and Proxies keep away.</l>
+                  <l>We think they will our Ammunition ſmell,</l>
+                  <l>Which from our friends beyond Sea us befell.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>M. J. Antonomies <hi>the Grand Sachems Death.</hi>
+               </head>
+               <lg>
+                  <l>A Breathing time of ſilence had my Pen,</l>
+                  <l>But finds a ſcribling matter once agen.</l>
+                  <l>In <hi>Narraganſet</hi> Land near <hi>Paquetuck.</hi>
+                  </l>
+                  <l>The Engliſh with the Natives try a pluck:</l>
+                  <l>Here in an Iſthmus pitcht the foes their tents,</l>
+                  <l>Here quartered their naked Regiments<hi>:</hi>
+                  </l>
+                  <l>Some grope for Lobſters, ſome to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> banks run,</l>
+                  <l>And ſome lie beautifying in the Sun:</l>
+                  <l>Some ſit in Council, others treating ſquaws;</l>
+                  <l>Some grinding parcht Corn with the Querns their Jawes.</l>
+                  <l>Some ſing their Captains dooms, others are louſing.</l>
+                  <l>Some pawawing, ſome wenching, and ſome drouſing.</l>
+                  <l>And herein <hi>ANTONOMIE</hi> among the reſt,</l>
+                  <l>All up in Wampum Belts, moſt richly dreſt<hi>:</hi>
+                  </l>
+                  <l>Sate as the Dagon of their motley crew,</l>
+                  <l>Not thinking that his downfal would inſue:</l>
+                  <l>Whoſe Pedegree ſhould I preſume to write,</l>
+                  <l>To <hi>Heſiods Theognis</hi> run I might.</l>
+                  <l>Our Checquer'd Bands of Whites and Tawnies joyn'd,</l>
+                  <l>Theſe in their cloſe Retirements quickly find;</l>
+                  <l>Down to the Earth our Martial gallants fall,</l>
+                  <l>And like to inſects on the Natives crawl.</l>
+                  <l>Old <hi>
+                        <g ref="char:V">Ʋ</g>NC<g ref="char:V">Ʋ</g>S</hi> tribe who ever had been true,</l>
+                  <l>Upon the moving Forreſt nimbly flew.</l>
+                  <l>
+                     <pb n="13" facs="tcp:63293:8"/>
+The Engliſh them as they are flying meet,</l>
+                  <l>And multitudes they tumble at their feet.</l>
+                  <l>Some captiv'd, others wounded, many ſlain,</l>
+                  <l>Like <hi>Hydra</hi>'s Heads, yet ne'r the leſs remain.</l>
+                  <l>And here that <hi>Lucifer</hi> receives defeat,</l>
+                  <l>Who ſcorns with any leſs then Princes treat.</l>
+                  <l>What Necklace could <hi>New-England</hi> better pleaſe,</l>
+                  <l>Then Heads ſtrung thick upon a thred of theſe,</l>
+                  <l>Him they diſpatch, and hundreds more are hurl'd,</l>
+                  <l>Him to attend upon in th' other world:</l>
+                  <l>Whoſe hunting bouts will heavily go on,</l>
+                  <l>His Legs muſt ſtay until the Head come on.</l>
+                  <l>That phanſie which ſo ſtifly they maintain,</l>
+                  <l>That ſuch on hunting go who hence are ſlain:</l>
+                  <l>I hope ere long will quite convinced be,</l>
+                  <l>By many Heads chopt off as fine as he:</l>
+                  <l>His (a brave preſent) kiſt the grateful Hand,</l>
+                  <l>Of Dons who in our Southern Tract command.</l>
+               </lg>
+               <lg>
+                  <l>Leaſt ſuch <hi>Moecaenas</hi>'s beyond Sea ſhould,</l>
+                  <l>Reſtrain their yearly ſhowrs of Goods and Gold,</l>
+                  <l>Be pleas'd to know there is an hopeful race,</l>
+                  <l>Who as you oft have been inform'd have grace.</l>
+                  <l>Theſe are confin'd under Chriſtian Wings,</l>
+                  <l>And hopes we have never to feel their ſtings.</l>
+                  <l>A natural Priſon wall'd with Sea and Iſles,</l>
+                  <l>From our Metropolis not many miles,</l>
+                  <l>Contains their ſwarms: hither upon advice,</l>
+                  <l>Some Grandees venturing powerful and wiſe;</l>
+                  <l>In a ſmall Veſſel on a time did tend.</l>
+                  <l>Three Dons with their great Apoſtolick friend:</l>
+                  <l>Ere they arrive a Barge runs down their Boat,</l>
+                  <l>Mean-while theſe Worthies three muſt ſink or float.</l>
+               </lg>
+               <lg>
+                  <l>Their Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ves for comfort round about them ſwam,</l>
+                  <l>And from their Bottles Neptune drinks a dram,</l>
+                  <l>He gap'd for men and all, but as God pleas'd</l>
+                  <l>By ſturdy tackles of that care he's eas'd.</l>
+                  <l>
+                     <pb n="14" facs="tcp:63293:9"/>
+With like obſervance to <hi>November</hi>'s day,</l>
+                  <l>Keep the remembrance of this paſſage pray.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On the Fortifications began by Women upon</hi> Boſton <hi>Neck.</hi>
+               </head>
+               <l>A Grand attempt the <hi>Amazonian</hi> dames,</l>
+               <l>Contrive, whereby to glorify their names.</l>
+               <l>A Ruffe for <hi>Boſtons</hi> Neck of mud and turfe,</l>
+               <l>Reaching from ſide to ſide, from ſurfe to ſurfe.</l>
+               <l>Their nimble Hands ſpin up like Chriſtmaſs Pies.</l>
+               <l>Their paſtry by degrees on high doth riſe.</l>
+               <l>Their Wheeles at home count it an Holyday</l>
+               <l>While Miſtreſſes are working they may play.</l>
+               <l>A tribe of Peticoates with manly hearts,</l>
+               <l>Forſake at home their Paſticruſt and Tarts<hi>:</hi>
+               </l>
+               <l>To knead the dirt, their Samplets down they hurle,</l>
+               <l>Their undulating Silks they cloſely furle.</l>
+               <l>The Pickaxe one as a Commandreſs holds,</l>
+               <l>Another at her awkneſs gently ſcolds.</l>
+               <l>One holds her ſide, while <hi>Hypocondrick</hi> fumes,</l>
+               <l>Do tympanize her Pericardian roomes</l>
+               <l>This puffs and ſweats, the other grumbles why</l>
+               <l>Can't you promote your work ſo faſt as I.</l>
+               <l>Some dig and delve, while others hands do feel,</l>
+               <l>The little Waggons weight with ſingle wheel:</l>
+               <l>And leaſt ſome fainting fit, the weak ſurprize,</l>
+               <l>They want not Sack and Cakes; they are more wiſe.</l>
+               <l>Theſe brave Eſſays drew forth mens nervous hands,</l>
+               <l>More like to Daubers than to Martial Bands.</l>
+               <l>Theſe do the work and ſturdy Bulwarks raiſe,</l>
+               <l>But thoſe who firſt began deſerve the praiſe.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63293:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
